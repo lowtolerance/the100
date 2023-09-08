@@ -14,26 +14,26 @@
 
 # THE 100, the fastest 3D Printer based on a printed frame.
 
-- It does Speedboat in less than 6 minutes and is capable of doing high quality prints in **1/10th** of the time a Ender 3 would need.
-- By the time releasing, The 100 is at the 26th rank of the [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391) of the fastest printers in the world and it's the fastest one that uses a 3d printed frame.
-- And the best thing, this printer **100% open source**. Which means if you like this printer and you  like to build one by own, you find all resources needed to do this in this repository
+- It prints a Speedboat in less than 6 minutes and is capable of doing high quality prints in **1/10th** of the time a Ender 3 would need.
+- At release time, The 100 is at the 26th rank of the [leaderboard](https://docs.google.com/spreadsheets/d/1lFiJi-X3Xm3hh3I9Ty9dfACMiBWxHFAOUeiU1km9m6I/edit#gid=106736391) of the fastest printers in the world and it's the fastest one that uses a 3d printed frame.
+- And the best thing, this printer is **100% open source**. Which means if you like this printer and you would like to build one on your own, you will find all resources needed to do this in this repository.
 
 
 ## Links
-- [Bill of Material](https://docs.google.com/spreadsheets/d/1e5dhm4ck-dtci_GDkMuuwxgp788YJ5hdL6JvRKvF1Zc/edit?usp=sharing)
+- [Bill of Materials](https://docs.google.com/spreadsheets/d/1e5dhm4ck-dtci_GDkMuuwxgp788YJ5hdL6JvRKvF1Zc/edit?usp=sharing)
 - [Join our Discord Server](https://discord.gg/fW7BcUErgZ)
 - [Support this Project on Patreon](https://www.patreon.com/The100)
 - [Grad the CAD files](https://www.printables.com/model/572689-the-100-the-fastest-3d-printer-based-on-a-printed-)
 - [View the Assembly Guide](https://www.youtube.com/playlist?list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W)
 - [Follow the Development](https://hackaday.io/project/190348-the-100-the-fastest-3d-printer)
-- [Printers build by the Community](https://www.youtube.com/playlist?list=PLM01o_dfwbDfZ-m0T0c431_AJRJ2Jxip3)
+- [Printer build by the Community](https://www.youtube.com/playlist?list=PLM01o_dfwbDfZ-m0T0c431_AJRJ2Jxip3)
 
 ## Print Settings
 
 To print the STL files, a 3D printer with a print bed of at least 230x230mm is required.
-I've printed all parts out of PLA. If you plan to print ABS/ASA on the printer i would suggest to print the print bed out of a more temprature resistant material.
+I've printed all parts out of PLA. If you plan to print ABS/ASA on the printer I would suggest to print the print bed out of a more temprature resistant material.
 
-For all STL Parts **exept the print bed** i've used the following settings:
+For all STL Parts **exept the print bed** I've used the following settings:
 
 - 0.25 Layer height
 - 0.5 Line width
